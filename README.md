@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A passionate javascript developer</h3>
-<img align="right" alt="Coding" width="200" src="./coding.gif" />
+<img align="right" alt="Coding" width="250" src="./coding_02.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baxhen&label=Profile%20views&color=0e75b6&style=flat" alt="baxhen" /> </p>
 
